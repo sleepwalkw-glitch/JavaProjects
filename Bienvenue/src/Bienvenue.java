@@ -29,7 +29,7 @@ public class Bienvenue {
         }
         //or not, in the condition else
         else {
-            System.out.println("Your name is " + nom + "," + "you are " + age + "years old,+ " + "your height is " + height + " cm," + "welcome!");
+            System.out.println("Your name is " + nom + "," + "you are " + age + "years old, " + "your height is " + height + " cm," + "welcome!");
         }
        myscanner.close();// once this has been used, we can never ask this vary anymore
     }
