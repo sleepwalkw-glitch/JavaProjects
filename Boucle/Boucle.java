@@ -1,6 +1,6 @@
 package Boucle;
 
-import java.util.Scanner;
+import org.w3c.dom.ls.LSOutput;
 
 public class Boucle {
     public static  void main(String args[]) {
@@ -66,3 +66,6 @@ public class Boucle {
 
     }
 }
+
+
+
