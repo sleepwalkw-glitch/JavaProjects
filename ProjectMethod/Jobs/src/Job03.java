@@ -2,8 +2,6 @@ static String getHello(){
     String welcome="Hello Laplateforme!";
     return welcome;}
 ////return"Hello Laplateforme!";
-///
-///
 
     static void main(String[]args){
         String result=getHello();
